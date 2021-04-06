@@ -16,3 +16,5 @@ Forward Euler.
 	
 ## Setup
 To run this project, download and include the library.
+
+## UNDER THE GUIDANCE OF Dr. Gaurav Trivedi, EEE Department, IIT Guwahati.
